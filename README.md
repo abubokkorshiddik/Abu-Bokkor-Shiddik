@@ -1,4 +1,4 @@
-# Abu-Bokkor-Shiddik
+ # Abu-Bokkor-Shiddik
 Abu Bokkor Shiddik is a data science professional specializing in public health, with a focus on applying statistical methods and machine learning to analyze health data and inform policy. He has expertise in spatial analysis, causal inference, and epidemiological methods. He has a strong background in statistics and is interested in using data science to address real-world health challenges, particularly in the context of communicable diseases and large, cross-national datasets. 
 Key areas of expertise and interest:
 
